@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.market {
+  float: left;
+}
+
+.sellmarket {
+  padding-left: 25%;
+}
+
+.buymarket {
+  padding-left: 50px;
+}
